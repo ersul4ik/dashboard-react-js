@@ -2,6 +2,8 @@
 
 This is a small React application built for learning purposes. The app displays a map with markers showing coordinates fetched from an API, representing driver locations.
 
+![alt text](public/screenshot.png)
+
 ## Features
 
 - 🌍 Interactive map using React Leaflet.
